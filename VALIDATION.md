@@ -11,11 +11,12 @@
 - 변경 원상복구 후 깨끗한 작업 트리 확인
 - `main` 기본 브랜치의 임시 원격 저장소에 push
 - 별도 디렉터리로 clone한 뒤 테스트 3개 재통과
+- S22와 북5 Remote QR 페어링 완료
+- GitHub `putto4u/test`의 `main`에 샘플 파일 등록
+- GitHub에서 7개 파일을 다시 읽어 로컬 검수본과 일치 확인
 
 ## 실제 장치에서 남은 검수
 
-- 북5와 S22 Remote QR 페어링
 - S22 Remote 지시로 북5의 `app.py` 수정
 - 북5의 실제 GitHub `origin`으로 commit 및 push
 - GitHub에서 commit과 파일 내용 확인
-
